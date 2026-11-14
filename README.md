@@ -2,7 +2,7 @@
 
 **A calm workspace for clinicians: agenda, inbox, patient records, billing and reports in one place.**
 
-**[Try the live demo →](https://dart-clinic.vercel.app/)**
+**[Try the live demo →](https://dart-clinic.vercel.app/)** · **[Read the case study →](https://patryk-design.framer.website/case-studies/dart)**
 
 Dart is a design and front-end prototype of the software a general practitioner works in all day. It's built to feel quiet and fast, to show dense information without feeling crowded, and to hold up next to the best tools outside healthcare.
 
@@ -47,8 +47,7 @@ Booking, editing, deleting, sending and adding all confirm with a short note at 
 
 **Calm over clever.** Clinicians sit in this app for eight hours. Warm off-white backgrounds, near-black text, thin dividers and no heavy shadows keep it easy on the eyes. Color is saved for meaning.
 
-**Black for primary actions.** Instead of the clinical blue many health tools use, the main buttons use near-black (
-#181818), so the interface feels confident and neutral, and the only colors on screen are the ones that carry information.
+**Black for primary actions.** Instead of the clinical blue many health tools use, the main buttons use near-black (#181818), so the interface feels confident and neutral, and the only colors on screen are the ones that carry information.
 
 **Color means status, never decoration.** Green, amber and red are reserved for appointment status and flagged lab values. Status is never shown by color alone: every badge and filter also has a label or an icon.
 
